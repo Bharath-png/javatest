@@ -29,7 +29,5 @@ public class Armstrongnumber {
 		isarmstrongnumber(1);
 
 	}
-
 }
 
-bharath
