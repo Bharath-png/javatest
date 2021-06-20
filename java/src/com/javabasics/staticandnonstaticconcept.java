@@ -11,8 +11,8 @@ public class staticandnonstaticconcept {
 		//the above examples are for static method and we can call values directly
 		
 		staticandnonstaticconcept obj = new staticandnonstaticconcept();
-		String s = obj.name;
-		System.out.println(s);
+		/*String s = obj.name;*/
+		System.out.println(obj.name);
 		obj.sendmail();
 		
 		

@@ -13,11 +13,13 @@ public class localvglobalvariable {
 		localvglobalvariable obj = new localvglobalvariable(); // to call global variables we have to call new object so we created 
 		System.out.println(obj.name);
 		System.out.println(obj.age);
-	}
+	
 
-	public void sum() { // i is same for this method
-		int i = 10;
+	
+		int i1 = 200;
 		int j = 20;
+		System.out.println(i1);
+		System.out.println(j);
 		
 	}
 }

@@ -11,13 +11,6 @@ public class arrayconcept {
 		System.out.println(i[3]);
 		System.out.println(i.length);		
 
-
-				
-				
-				
-				
-				
-				
 				
 	}
 
