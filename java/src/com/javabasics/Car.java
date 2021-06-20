@@ -1,7 +1,7 @@
 package com.javabasics;
 
 public class Car {
-	int mod; bharath
+	int mod;
 	int wheel;
 	
 //int mod and int wheel are the classes
